@@ -1,6 +1,6 @@
 # Project Management System
 
-A system to help a user/s keep track of all the projects which he/she/they work or worked on.
+A system to help users keep track of all the projects that their company has worked on.
 
 Some of the functionality:
 - Add new projects that can auto-name if needed.
